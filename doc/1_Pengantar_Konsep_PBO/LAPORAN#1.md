@@ -57,6 +57,16 @@ dengan natura
 bentuk, atau menjelma menjadi bentuk-bentuk lain
 
 
+2. Object adalah suatu rangkaian dalam program yang terdiri dari state dan behaviour. 
+   Class adalah blueprint atau prototype dari objek
+   
+3. Dalam menggunakan sebuah class cukup sekali tidak perlu dituis berkali-kali.
+   Dapat menambahkan fitur pada class tanpa mengedit class asal.
+   Menggunakan objek tanpa harus tahu teknis yang ada didalamnya.
+   
+4. Merek , Kecepatan Gear
+
+5. 
 
 ## Tugas
 1. Buatlah program yang merupakan class dari objek yang ada dunia nyata sesuai dengan imajinasi
