@@ -68,6 +68,9 @@ bentuk, atau menjelma menjadi bentuk-bentuk lain
 
 5. 
 
+
+6. 
+
 ## Tugas
 1. Buatlah program yang merupakan class dari objek yang ada dunia nyata sesuai dengan imajinasi
 anda. Silahkan merujuk pada kode program praktikum yang sudah kita lakukan sebelumnya
