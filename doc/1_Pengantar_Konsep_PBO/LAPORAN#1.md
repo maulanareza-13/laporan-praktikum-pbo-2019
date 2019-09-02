@@ -13,22 +13,17 @@
 ## Percobaan
 
 ### Percobaan 1
+Penjelasan : Kita mengetahui penambahan dan pengurangan kecepatan.
 
-(berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
-
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
-![contoh screenshot](img/1.PNG)
+![1](img/1.png)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720046Reza.java)
 
 ### Percobaan 2
 
-(berisi penjelasan percobaan 2. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+Penjelasan : Kita mengetahui turunan dari sifat dari induk yaitu Sepeda ke anaknya yaitu SepedaGunung.
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
-![contoh screenshot](img/2.PNG)
+![2](img/2.png)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720046Reza.java)
 
@@ -68,19 +63,13 @@ bentuk, atau menjelma menjadi bentuk-bentuk lain
 anda. Silahkan merujuk pada kode program praktikum yang sudah kita lakukan sebelumnya
 untuk sintak-sintak nya.
 
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
-
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
-![contoh screenshot](img/tgs.PNG)
-
+![contoh screenshot](img/tgs.png)
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/BekerVapeDemo1841720046.java)
 
-
-![contoh screenshot](img/tgs.PNG)
+![contoh screenshot](img/tgs.png)
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/BekerVape1841720046Reza.java)
 
-![contoh screenshot](img/tgs.PNG)
+![contoh screenshot](img/tgs.png)
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/BekerVapePods1841720046Reza.java)
 
 
