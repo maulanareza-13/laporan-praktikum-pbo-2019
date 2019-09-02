@@ -15,7 +15,7 @@
 ### Percobaan 1
 Penjelasan : Kita mengetahui penambahan dan pengurangan kecepatan.
 
-![1](img/1.png)
+![1](img/1.PNG)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720046Reza.java)
 
@@ -23,7 +23,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 Penjelasan : Kita mengetahui turunan dari sifat dari induk yaitu Sepeda ke anaknya yaitu SepedaGunung.
 
-![2](img/2.png)
+![2](img/2.PNG)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720046Reza.java)
 
@@ -63,13 +63,13 @@ bentuk, atau menjelma menjadi bentuk-bentuk lain
 anda. Silahkan merujuk pada kode program praktikum yang sudah kita lakukan sebelumnya
 untuk sintak-sintak nya.
 
-![contoh screenshot](img/tgs.png)
+![contoh screenshot](img/tgs.PNG)
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/BekerVapeDemo1841720046.java)
 
-![contoh screenshot](img/tgs.png)
+![contoh screenshot](img/tgs.PNG)
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/BekerVape1841720046Reza.java)
 
-![contoh screenshot](img/tgs.png)
+![contoh screenshot](img/tgs.PNG)
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/BekerVapePods1841720046Reza.java)
 
 
