@@ -84,9 +84,7 @@ Link kode program : [Anggota1841720046Reza](../../src/3_Enkapsulasi/Anggota18417
 2.	Apa kegunaan dari method getSimpanan()?
 -   Merupakan method yang digunakan untuk mendapatkan nilai dari atribut simpanan yang nantinya method tersebut digunakan untuk menampilkan nilai dari atribut simpanan
 
-3.	Method apa yang digunakan untk menambah saldo? 
--   Method setorZaafril pada class Anggota1841720123Zaafril.java
-
+3
 4.	Apa yang dimaksud konstruktor?
 -   Konstruktor mirip dengan method cara deklarasinya akan tetapi tidak memiliki tipe return. Dan konsturktor dieksekusi ketika instan dari objek dibuat. Jadi setiap kali sebuat objek dibuat dengan keyword new() maka konstruktor akan dieksekusi. Atau kalau dari pandangan saya konstruktor merupakan cara untuk menambah parameter pada objek.
 
@@ -121,10 +119,7 @@ Link kode program : [EncapDemo](../../src/3_Enkapsulasi/EncapDemo.java)
 
 Link kode program : [EncapTest](../../src/3_Enkapsulasi/EncapTest.java)
 
-2. Pada program diatas, pada class EncapTest kita mengeset age dengan nilai 35, namun pada saat ditampilkan ke layar nilainya 30, jelaskan mengapa.
-- Karena pada method setAgeZaafril terdapat percabangan yang didalamnya berisi bila nilai dari atribut age lebih dari 30 maka nilai age akan menjadi 30
 
-3. Ubah program diatas agar atribut age dapat diberi nilai maksimal 30 dan minimal 18. 
 
 - Class EncapTest.java
 ![contoh screenshot](img/tgs3.PNG)
