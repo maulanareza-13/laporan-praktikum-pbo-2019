@@ -127,7 +127,7 @@ d. Modifikasilah method beriSertifikatCumlaude() pada class Rektor agar hasil ek
 - Class Program 
 [P3_Program.java](../../src/9_Abstract_Class_dan_Interface/Program.java) 
 
-![contoh screenshot](img/3.png)
+![contoh screenshot](img/3.PNG)
 
 ## Pertanyaan 3
 
