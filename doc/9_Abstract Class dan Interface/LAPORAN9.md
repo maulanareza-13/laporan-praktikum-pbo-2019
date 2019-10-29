@@ -47,7 +47,7 @@ Link kode program :
 
 [Program1841720046Reza.java](../../src/9_Abstract_Class_dan_Interface/Program1841720046Reza.java)
 
-![contoh screenshot](img/1.png)
+![contoh screenshot](img/1.PNG)
 
 ## Pertanyaan 1
 
