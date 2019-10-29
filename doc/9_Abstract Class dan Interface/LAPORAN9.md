@@ -82,7 +82,7 @@ misalnya di kelas ‘Kucing’ dihapus method bergerak(), makan akan muncul eror
 
 [Program.java](../../src/9_Abstract_Class_dan_Interface/Program.java)
 
-![contoh screenshot](img/2.png)
+![contoh screenshot](img/2.PNG)
 
 ## Pertanyaan 2
 
@@ -97,7 +97,7 @@ c. Dapatkah method kuliahDiKampus() dipanggil dari parameter mahasiswa di method
 
 d. Modifikasilah method beriSertifikatCumlaude() pada class Rektor agar hasil eksekusi class Program menjadi seperti berikut ini: 
 
-![contoh screenshot](img/2.png)
+![contoh screenshot](img/2.PNG)
 
 
 ### Percobaan 3
